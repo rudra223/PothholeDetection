@@ -19,6 +19,15 @@ Image Inference<br>
 Video Inference<br>
 ![image](https://github.com/user-attachments/assets/c6a8947e-1ba7-4b9f-b665-5c6122e0418e)<br>
 
+## Results
+Metric	Value
+Precision	91%
+Recall	88%
+F1-Score	89%
+mAP@0.5	92%
+Fitness	90%
+
+
 
 
 
